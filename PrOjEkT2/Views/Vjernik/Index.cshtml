@@ -1,0 +1,34 @@
+﻿@using PrOjEkT2.Models
+@model List<Vjernik>
+@{
+    ViewBag.Title = "Popis vjernika";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">@ViewBag.Title</h2>
+
+    <table class="table table-bordered table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>Korisničko ime</th>
+                <th>Email</th>
+                <th>Prezime i Ime</th>
+                <th>Crkva</th>
+                <th>Zupa</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var vjernik in Model)
+            {
+                <tr>
+                    <td>@vjernik.korisnicko_ime</td>
+                    <td>@vjernik.email</td>
+                    <td>@vjernik.PrezimeIme</td>
+                    <td>@vjernik.crkva</td>
+                    <td>@vjernik.zupa</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

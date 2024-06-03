@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E009091-2E9D-4D86-B826-ADA0ABB5E8F1}|PrOjEkT2\\PrOjEkT2.csproj|c:\\users\\kukii\\desktop\\vjerawebpage-paup2024-luka-kukelj-main\\vjerawebpage-paup2024-luka-kukelj-main\\projekt2\\controllers\\crkvacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E009091-2E9D-4D86-B826-ADA0ABB5E8F1}|PrOjEkT2\\PrOjEkT2.csproj|solutionrelative:projekt2\\controllers\\crkvacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E009091-2E9D-4D86-B826-ADA0ABB5E8F1}|PrOjEkT2\\PrOjEkT2.csproj|C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\projekt2\\models\\svecenik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E009091-2E9D-4D86-B826-ADA0ABB5E8F1}|PrOjEkT2\\PrOjEkT2.csproj|solutionrelative:projekt2\\models\\svecenik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E009091-2E9D-4D86-B826-ADA0ABB5E8F1}|PrOjEkT2\\PrOjEkT2.csproj|C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\projekt2\\models\\crkva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E009091-2E9D-4D86-B826-ADA0ABB5E8F1}|PrOjEkT2\\PrOjEkT2.csproj|solutionrelative:projekt2\\models\\crkva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E009091-2E9D-4D86-B826-ADA0ABB5E8F1}|PrOjEkT2\\PrOjEkT2.csproj|C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\projekt2\\views\\svecenik\\azuriraj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E009091-2E9D-4D86-B826-ADA0ABB5E8F1}|PrOjEkT2\\PrOjEkT2.csproj|solutionrelative:projekt2\\views\\svecenik\\azuriraj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E009091-2E9D-4D86-B826-ADA0ABB5E8F1}|PrOjEkT2\\PrOjEkT2.csproj|C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\projekt2\\controllers\\svecenikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E009091-2E9D-4D86-B826-ADA0ABB5E8F1}|PrOjEkT2\\PrOjEkT2.csproj|solutionrelative:projekt2\\controllers\\svecenikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E009091-2E9D-4D86-B826-ADA0ABB5E8F1}|PrOjEkT2\\PrOjEkT2.csproj|C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\projekt2\\controllers\\mailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E009091-2E9D-4D86-B826-ADA0ABB5E8F1}|PrOjEkT2\\PrOjEkT2.csproj|solutionrelative:projekt2\\controllers\\mailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E009091-2E9D-4D86-B826-ADA0ABB5E8F1}|PrOjEkT2\\PrOjEkT2.csproj|C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\projekt2\\controllers\\zupacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E009091-2E9D-4D86-B826-ADA0ABB5E8F1}|PrOjEkT2\\PrOjEkT2.csproj|solutionrelative:projekt2\\controllers\\zupacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E009091-2E9D-4D86-B826-ADA0ABB5E8F1}|PrOjEkT2\\PrOjEkT2.csproj|C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\projekt2\\controllers\\misacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E009091-2E9D-4D86-B826-ADA0ABB5E8F1}|PrOjEkT2\\PrOjEkT2.csproj|solutionrelative:projekt2\\controllers\\misacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crkva.cs",
+              "DocumentMoniker": "C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\PrOjEkT2\\Models\\Crkva.cs",
+              "RelativeDocumentMoniker": "PrOjEkT2\\Models\\Crkva.cs",
+              "ToolTip": "C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\PrOjEkT2\\Models\\Crkva.cs",
+              "RelativeToolTip": "PrOjEkT2\\Models\\Crkva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:22:24.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Svecenik.cs",
+              "DocumentMoniker": "C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\PrOjEkT2\\Models\\Svecenik.cs",
+              "RelativeDocumentMoniker": "PrOjEkT2\\Models\\Svecenik.cs",
+              "ToolTip": "C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\PrOjEkT2\\Models\\Svecenik.cs",
+              "RelativeToolTip": "PrOjEkT2\\Models\\Svecenik.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:22:24.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Azuriraj.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\PrOjEkT2\\Views\\Svecenik\\Azuriraj.cshtml",
+              "RelativeDocumentMoniker": "PrOjEkT2\\Views\\Svecenik\\Azuriraj.cshtml",
+              "ToolTip": "C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\PrOjEkT2\\Views\\Svecenik\\Azuriraj.cshtml",
+              "RelativeToolTip": "PrOjEkT2\\Views\\Svecenik\\Azuriraj.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-05-13T10:22:24.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ZupaController.cs",
+              "DocumentMoniker": "C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\PrOjEkT2\\Controllers\\ZupaController.cs",
+              "RelativeDocumentMoniker": "PrOjEkT2\\Controllers\\ZupaController.cs",
+              "ToolTip": "C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\PrOjEkT2\\Controllers\\ZupaController.cs",
+              "RelativeToolTip": "PrOjEkT2\\Controllers\\ZupaController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAIwE0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:22:24.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SvecenikController.cs",
+              "DocumentMoniker": "C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\PrOjEkT2\\Controllers\\SvecenikController.cs",
+              "RelativeDocumentMoniker": "PrOjEkT2\\Controllers\\SvecenikController.cs",
+              "ToolTip": "C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\PrOjEkT2\\Controllers\\SvecenikController.cs",
+              "RelativeToolTip": "PrOjEkT2\\Controllers\\SvecenikController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAcwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:22:24.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MailController.cs",
+              "DocumentMoniker": "C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\PrOjEkT2\\Controllers\\MailController.cs",
+              "RelativeDocumentMoniker": "PrOjEkT2\\Controllers\\MailController.cs",
+              "ToolTip": "C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\PrOjEkT2\\Controllers\\MailController.cs",
+              "RelativeToolTip": "PrOjEkT2\\Controllers\\MailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:22:24.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrkvaController.cs",
+              "DocumentMoniker": "C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\PrOjEkT2\\Controllers\\CrkvaController.cs",
+              "RelativeDocumentMoniker": "PrOjEkT2\\Controllers\\CrkvaController.cs",
+              "ToolTip": "C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\PrOjEkT2\\Controllers\\CrkvaController.cs",
+              "RelativeToolTip": "PrOjEkT2\\Controllers\\CrkvaController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAawFcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:22:24.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MisaController.cs",
+              "DocumentMoniker": "C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\PrOjEkT2\\Controllers\\MisaController.cs",
+              "RelativeDocumentMoniker": "PrOjEkT2\\Controllers\\MisaController.cs",
+              "ToolTip": "C:\\Users\\Kukii\\Desktop\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\VjeraWebPage-Paup2024-Luka-Kukelj-main\\PrOjEkT2\\Controllers\\MisaController.cs",
+              "RelativeToolTip": "PrOjEkT2\\Controllers\\MisaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:22:24.499Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
